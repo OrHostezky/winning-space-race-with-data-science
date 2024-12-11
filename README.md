@@ -4,7 +4,7 @@ An end-to-end data science project, completed as a the capstone project for the 
 The project includes:
 - Data Collection via REST-API and web scraping
 - Data Wrangling
-- Exploratory Data Analysis (EDA) via SQL and data visualization
+- Exploratory Data Analysis (EDA) via data visualization and SQL 
 - Interactive Maps using Folium
 - Dashboard Building using Plotly Dash
 - Predictive Analysis (Classification)
