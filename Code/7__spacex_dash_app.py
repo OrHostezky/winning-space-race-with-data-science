@@ -84,6 +84,7 @@ def get_scatter_plot(selected_site, payload):
     filtered_df = spacex_df[spacex_df['Payload Mass (kg)'].between(payload[0], payload[1])]
     if selected_site == 'ALL':
         fig = px.scatter(filtered_df, x='Payload Mass (kg)', y='class',
+            labels={'class': 'Launch Outcome'},
             color="Booster Version Category",
             title='Launch Outcome vs. Payload Mass for All Sites')
     else:
