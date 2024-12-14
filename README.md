@@ -7,7 +7,7 @@ An end-to-end data science project, completed as a the capstone project for the 
 - Data Collection via REST-API ([notebook](Code/1__Data_Collection__API.ipynb)) and web scraping ([notebook)](Code/2__Data_Collection__Webscraping.ipynb))
 - Data Wrangling ([notebook](Code/3__Data_Wrangling.ipynb))
 - Exploratory Data Analysis (EDA) via data visualization ([notebook](Code/4__EDA_DataViz.ipynb)) and SQL ([notebook](Code/5__EDA_SQL.ipynb))
-- Interactive Maps using Folium ([notebook](Code/6__VizAnalytics_Folium.ipynb))
+- Interactive Map using Folium ([notebook](Code/6__VizAnalytics_Folium.ipynb))
 - Dashboard Building using Plotly Dash ([script](Code/7__spacex_dash_app.py))
 - Predictive Analysis (Classification) ([notebook](Code/8__Predictive_Analysis.ipynb))
 
