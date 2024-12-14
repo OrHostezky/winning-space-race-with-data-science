@@ -11,9 +11,17 @@ An end-to-end data science project, completed as a the capstone project for the 
 - Dashboard Building using Plotly Dash ([script](Code/7__spacex_dash_app.py))
 - Predictive Analysis (Classification) ([notebook](Code/8__Predictive_Analysis.ipynb))
 
-For a detailed account of the methodology, see [summary presentation]() (in the making)
+For a detailed account of the methodology, see [summary presentation]() (in the making).
 
 
 ## Results
 
-See [summary presentation]() (in the making)
+See [summary presentation]() (in the making).
+
+
+## Conclusion
+
+Soon.
+
+
+### Limitations:
