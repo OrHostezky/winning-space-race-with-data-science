@@ -1,5 +1,5 @@
 # Winning Space Race with Data Science
-An end-to-end data science project, completed as a the capstone project for the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) program ([course 10](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)), including code notebooks, a dashboard application, and a [summary presentation](Winning Space Race with Data Science.pdf).
+An end-to-end data science project, completed as a the capstone project for the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) program ([course 10](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)), including code notebooks, a dashboard application, and a [summary presentation](Winning_Space_Race_with_Data_Science.pdf).
 
 
 ## Introduction
