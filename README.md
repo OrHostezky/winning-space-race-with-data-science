@@ -32,7 +32,7 @@ For a detailed account of the methodology, see [summary presentation](Winning_Sp
 See [summary presentation](Winning_Space_Race_with_Data_Science.pdf).
 
 
-## Conclusion
+## Conclusions
 
 - **Not all data is relevant** for the problem – only some features affect success rate.
 - Launches with **large payloads** generally have **higher success** rates.
