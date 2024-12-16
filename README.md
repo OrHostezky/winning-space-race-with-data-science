@@ -1,15 +1,19 @@
 # Winning Space Race with Data Science
-An end-to-end data science project, completed as a the capstone project for the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) program ([course 10](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)), including code notebooks, a dashboard application, and a [summary presentation]() (in the making).
+An end-to-end data science project, completed as a the capstone project for the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) program ([course 10](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)), including code notebooks, a dashboard application, and a [summary presentation](Winning Space Race with Data Science.pdf).
 
 
-## Context
+## Introduction
 
-In the making.
+### Context:
+
+
+### Key Questions:
+
 
 
 ## Methodology
 
-- Data Collection via REST-API ([notebook](Code/1__Data_Collection__API.ipynb)) and web scraping ([notebook)](Code/2__Data_Collection__Webscraping.ipynb))
+- Data Collection via REST-API ([notebook](Code/1__Data_Collection__API.ipynb)) and web scraping ([notebook](Code/2__Data_Collection__Webscraping.ipynb))
 - Data Wrangling ([notebook](Code/3__Data_Wrangling.ipynb))
 - Exploratory Data Analysis (EDA) via data visualization ([notebook](Code/4__EDA_DataViz.ipynb)) and SQL ([notebook](Code/5__EDA_SQL.ipynb))
 - Interactive Map using Folium ([notebook](Code/6__VizAnalytics_Folium.ipynb))
@@ -21,14 +25,13 @@ For a detailed account of the methodology, see [summary presentation]() (in the 
 
 ## Results
 
-See [summary presentation]() (in the making).
+See [summary presentation]().
 
 
 ## Conclusion
 
-In the making.
 
 
 ### Limitations:
 
-In the making.
+
