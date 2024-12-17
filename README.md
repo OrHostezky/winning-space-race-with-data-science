@@ -5,7 +5,7 @@ An end-to-end data science project, completed as a the capstone project for the 
 ## Introduction
 
 ### Context:
-- **SpaceX** brings an innovative ability to reuse the 1st stage of its Falcon 9 rocket, which lowers launch price by ~70% (~$100M per launch).
+- **SpaceX** brings an innovative ability to reuse the 1st stage of its Falcon 9 rocket, which lowers launch price by \~70% (\~$100M per launch).
 - Determining 1st-stage landing outcome enables us to determine launch cost.
 - Our goal is to implement a workflow to predict 1st-stage landing outcome.
 
