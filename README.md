@@ -43,6 +43,6 @@ See [summary presentation](Winning_Space_Race_with_Data_Science.pdf).
 - All models performed equally well, yet the **Decision Tree model** was slightly more **generalizable** for this problem.
 
 ### Limitations and Future Work:
-- **Collection of more data** is needed for model-performance evaluation of generalizability on unseen data.
+- **Collection of more data** is needed to evaluate model generalizability to unseen data.
 - Additional **feature engineering** may improve our model efficiency and performance.
 - **Ensemble methods** like Random Forest and boosting were not used, yet it is highly likely they can be wielded to improve model performance.
